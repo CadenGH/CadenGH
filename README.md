@@ -2,6 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
+(All projects and proof of concepts are in the works to being added here)
 - [[Active Directory Home Lab]](https://github.com/cadengh/LABURL) (Windows Administration and Server Configuration)
 - [[Web App Security]](https://github.com/cadengh/WEBAPP) (Web Application Creation and Hardening)
 - [[SOC Analyst Simulation]](https://github.com/cadengh/SOCsim) (Simulation of Real World EDR)
