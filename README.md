@@ -1,10 +1,12 @@
-<h1>Hi, I'm Caden!, a <a href="https://www.linkedin.com/in/caden-whitley/">Cybersecurity Professional</a></h1>
+<h1>Hi, I'm Caden, a <a href="https://www.linkedin.com/in/caden-whitley/">Cybersecurity Professional</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- [Active Directory Home Lab](https://github.com/cadengh/LABURL)
-- [Web Application Creation and Hardening](https://github.com/cadengh/WEBAPP)
-- [SOC Analyst Simulation](https://github.com/cadengh/SOCSim)
+- [[Active Directory Home Lab]](https://github.com/cadengh/LABURL) (Windows Administration and Server Configuration)
+- [[Web App Security]](https://github.com/cadengh/WEBAPP) (Web Application Creation and Hardening)
+- [[SOC Analyst Simulation]](https://github.com/cadengh/SOCsim) (Simulation of Real World EDR)
+- [[Threat Hunting Simulation]](https://github.com/cadengh/Threat) (Hunting Threats Using Greylog)
+- [[Creating Malware Using Python]](https://github.com/cadengh/PythonMalware) (Writing Ransomware in Python)
 
 <h2> 🤳 Connect with me:</h2>
 
@@ -13,7 +15,6 @@
 [linkedin]: https://www.linkedin.com/in/caden-whitley/
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
