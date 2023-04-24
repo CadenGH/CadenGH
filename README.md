@@ -5,7 +5,7 @@
 (All projects and proof of concepts are in the works to being added here)
 - [[Active Directory Home Lab]](https://github.com/cadengh/LABURL) (Windows Administration and Server Configuration)
 - [[Web App Security]](https://github.com/cadengh/WEBAPP) (Web Application Creation and Hardening)
-- [[SOC Analyst Simulation]](https://github.com/cadengh/SOCsim) (Simulation of Real World EDR)
+- [[SOC Analyst Simulation]](https://github.com/CadenGH/SOC-Analyst-Simulation) (Simulation of Real World EDR)
 - [[Threat Hunting Simulation]](https://github.com/cadengh/Threat) (Hunting Threats Using Greylog)
 - [[Creating Malware Using Python]](https://github.com/cadengh/PythonMalware) (Writing Ransomware in Python)
 
