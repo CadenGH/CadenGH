@@ -1,6 +1,6 @@
-<h1>Hi, I'm Caden, a <a href="https://www.linkedin.com/in/caden-whitley/">Cybersecurity Professional</a></h1>
+<h1> Hi, I'm Caden, a <a href="https://www.linkedin.com/in/caden-whitley/">Cybersecurity Professional</a></h1>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2> 👨‍💻 Cybersecurity Projects:</h2>
 
 (All projects and proof of concepts are in the works to being added here)
 - [[SOC Analyst Simulation]](https://github.com/CadenGH/SOC-Analyst-Simulation) (Simulation of Real World EDR)
@@ -8,7 +8,16 @@
 - [[Web App Security]](https://github.com/CadenGH/Web-App-Creation-and-Hardening) (Web Application Creation and Hardening)
 - [[Threat Hunting Simulation]](https://github.com/cadengh/Threat) (Hunting Threats Using Graylog)
 - [[Creating Malware Using Python]](https://github.com/cadengh/PythonMalware) (Writing Ransomware in Python)
+- [[Deploying Azure Sentinel With Heat Map]]
+
+<h2> 🌱 Courses / Studied </h2>
+
 - [[Google Cybersecurity Certificate]](https://github.com/CadenGH/Google-Cybersecurity-Course) (Tracking my progress for my Google Cybersecurity certificate)
+- [Splunk Core Certified User]
+- [CompTIA Security+]
+- [University of Texas at Austin] Cybersecurity and Digital Forensics
+- [University of Texas at Austin] Certified Cybsersecurity and Digital Forensics Specialist
+- [Cisco Networking Basics Bootcamp]
 
 <h2> 🤳 Connect with me:</h2>
 
