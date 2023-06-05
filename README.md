@@ -9,7 +9,7 @@
 - [[Threat Hunting Simulation]](https://github.com/cadengh/Threat) (Hunting Threats Using Graylog)
 - [[Creating Malware Using Python]](https://github.com/cadengh/PythonMalware) (Writing Ransomware in Python)
 - [[Deploying Azure Sentinel w/ Heat Map]] (Hackers from across the world attempt at my VM, and mapping their IP's geolocation)
-- [[Vulnerability Management w/ Nessus]] (Perform vulnerability scans using Nessus Essentials)
+- [[Vulnerability Management w/ Nessus]](https://github.com/CadenGH/Nessus-Essentials)(Perform vulnerability scans using Nessus Essentials)
 
 <h2> 🌱 Courses / Studied </h2>
 
