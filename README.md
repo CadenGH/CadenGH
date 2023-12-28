@@ -14,11 +14,10 @@
 <h2> 🌱 Courses / Studied </h2>
 
 - [[Google Cybersecurity Certificate]](https://github.com/CadenGH/Google-Cybersecurity-Course) (Tracking my progress for my Google Cybersecurity certificate)
-- [Splunk Core Certified User]
 - [CompTIA Security+]
-- [University of Texas at Austin] Cybersecurity and Digital Forensics
+- [University of Texas at Austin] Computer Science
 - [University of Texas at Austin] Certified Cybsersecurity and Digital Forensics Specialist
-- [Cisco Networking Basics Bootcamp]
+- [Cisco Networking Basics Bootcamp (Progression towards CCNA)]
 
 <h2> 🤳 Connect with me:</h2>
 
