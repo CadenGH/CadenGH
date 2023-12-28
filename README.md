@@ -17,7 +17,7 @@
 - [CompTIA Security+]
 - [University of Texas at Austin] Computer Science
 - [University of Texas at Austin] Certified Cybsersecurity and Digital Forensics Specialist
-- [Cisco Networking Basics Bootcamp (Progression towards CCNA)]
+- [Cisco Networking Basics Bootcamp] Progression towards CCNA
 
 <h2> 🤳 Connect with me:</h2>
 
