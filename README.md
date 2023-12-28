@@ -6,7 +6,7 @@
 - [[SOC Analyst Simulation]](https://github.com/CadenGH/SOC-Analyst-Simulation) (Simulation of Real World EDR)
 - [[Active Directory Home Lab]](https://github.com/CadenGH/Active-Directory-Home-Lab) (Windows Administration and Server Configuration)
 - [[Web App Security]](https://github.com/CadenGH/Web-App-Creation-and-Hardening) (Web Application Creation and Hardening)
-- [[Threat Hunting Simulation]](https://github.com/cadengh/Threat) (Hunting Threats Using Graylog)
+- [[Threat Hunting Simulation]](https://github.com/cadengh/ThreatHunter) (Hunting Threats Using Graylog)
 - [[Creating Malware Using Python]](https://github.com/cadengh/PythonMalware) (Writing Ransomware in Python)
 - [[Deploying Azure Sentinel w/ Heat Map]](https://github.com/CadenGH/Azure-Sentinel-Showcase)(Hackers from across the world attempt at my VM, and mapping their IP's geolocation)
 - [[Vulnerability Management w/ Nessus]](https://github.com/CadenGH/Nessus-Essentials)(Perform vulnerability scans using Nessus Essentials)
