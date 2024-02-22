@@ -20,7 +20,7 @@
 - [ Python 101 for Ethical Hackers ( 2024 ) ] - An introduction to Python programming and concepts
 - [ Python 201 for Ethical Hackers ( Soon ) ] - Will be taking this soon.
 - [ Linux 101 Certified - TCM ( 2024 ) ] - Understand how to use Linux at a professional level 
-- [[ Google Cybersecurity Certificate ( 2023 ) ] ] - Certified
+- [ Google Cybersecurity Certificate ( 2023 ) ] - Certified
 - [ CompTIA Security+ ( 2023 ) ] - Certified
 - [ University of Texas at Austin ( 2022 ) ] - [Technical Degree] - Certified Cybsersecurity and Digital Forensics Specialist
 - [ CompTIA Net+ ( 2022 ) ] - Knowledge of, no exam taken. (Will if position is contingent on cert)
