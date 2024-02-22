@@ -13,8 +13,9 @@
 
 <h2> 🌱 Educational steps I've taken in my journey! </h2>
 
-- [ Practical Network Penetration Tester - PNPT ( GOAL ) - Goal set for ~September
-- [ Practical Junior Penetration Tester - PJPT ( GOAL ) - My soon goal being ~March
+- [ Offensice Cyber Security Professional - OSCP ] ( GOAL )
+- [ Practical Network Penetration Tester - PNPT ] ( GOAL ) - Goal set for ~September
+- [ Practical Junior Penetration Tester - PJPT ] ( GOAL ) - My soon goal being ~March
 - [ Practical Ethical Hacking - PEH TCM ( Current ) ] - Incredibly hands on, 30 hour long course, teaching the practical side of ethical hacking
 - [ Detection Engineering 101 - TCM ( 2024 ) ] - Engineer ElasticSearch to detect and alert any meaningful information on my victim VM
 - [ Python 101 for Ethical Hackers ( 2024 ) ] - An introduction to Python programming and concepts
