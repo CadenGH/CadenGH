@@ -13,11 +13,11 @@
 
 <h2> 🌱 Educational steps I've taken in my journey! </h2>
 
-- [ Harvard University's CS50 P - Python ] ( 2025 ) - 10 Week long course covering Python essentials
+- [ Harvard University's CS50 P - Python ( 2025 ) ] - 10 Week long course covering Python essentials
 - [ Offensice Cyber Security Professional - OSCP ] ( GOAL )
 - [ Practical Network Penetration Tester - PNPT ] ( GOAL ) 
 - [ Practical Junior Penetration Tester - PJPT ] ( GOAL ) 
-- [ Practical Ethical Hacking - PEH TCM ( Current ) ] - Incredibly hands on, 30 hour long course, teaching the practical side of ethical hacking
+- [ Practical Ethical Hacking - PEH TCM ( 2024 ) ] - Incredibly hands on, 30 hour long course, teaching the practical side of ethical hacking
 - [ Detection Engineering 101 - TCM ( 2024 ) ] - Engineer ElasticSearch to detect and alert any meaningful information on my victim VM
 - [ Python 101 for Ethical Hackers ( 2024 ) ] - An introduction to Python programming and concepts
 - [ Python 201 for Ethical Hackers ( 2024 ) ] 
