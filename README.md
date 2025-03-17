@@ -13,6 +13,7 @@
 
 <h2> 🌱 Educational steps I've taken in my journey! </h2>
 
+- [ Harvard University's CS50 P - Python ] ( 2025 ) - 10 Week long course covering Python essentials
 - [ Offensice Cyber Security Professional - OSCP ] ( GOAL )
 - [ Practical Network Penetration Tester - PNPT ] ( GOAL ) 
 - [ Practical Junior Penetration Tester - PJPT ] ( GOAL ) 
