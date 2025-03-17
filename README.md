@@ -13,10 +13,7 @@
 
 <h2> 🌱 Educational steps I've taken in my journey! </h2>
 
-- [ Harvard University's CS50 P - Python ( 2025 ) ] - 10 Week long course covering Python essentials
-- [ Offensice Cyber Security Professional - OSCP ] ( GOAL )
-- [ Practical Network Penetration Tester - PNPT ] ( GOAL ) 
-- [ Practical Junior Penetration Tester - PJPT ] ( GOAL ) 
+- [ Harvard University's CS50 P - Python ( Current as of 03/08/2025 ) ] - 10 Week long course covering Python essentials
 - [ Practical Ethical Hacking - PEH TCM ( 2024 ) ] - Incredibly hands on, 30 hour long course, teaching the practical side of ethical hacking
 - [ Detection Engineering 101 - TCM ( 2024 ) ] - Engineer ElasticSearch to detect and alert any meaningful information on my victim VM
 - [ Python 101 for Ethical Hackers ( 2024 ) ] - An introduction to Python programming and concepts
@@ -30,6 +27,9 @@
 - [ University of Texas at Austin ( 2022 ) ] - Bachelor of Science, Computer Science
 - [ San Antonio Community College ( 2020 ) ] - Associates of Applied Science, Computer Science
 - [ Cisco CCNA Networking Basics Bootcamp ( 2019 ) ] - CCNA level understanding of Networking
+- [ Offensice Cyber Security Professional - OSCP ] ( GOAL )
+- [ Practical Network Penetration Tester - PNPT ] ( GOAL ) 
+- [ Practical Junior Penetration Tester - PJPT ] ( GOAL )
 
 <h2> 🤳 Connect with me:</h2>
 
